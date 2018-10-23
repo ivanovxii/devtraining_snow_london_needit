@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_286740_needit_needit</description>
+        <name>x_286740_needit_needit</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-23 12:02:30</sys_created_on>
+        <sys_id>9e9b350a4f552300dde2b82ca310c754</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_286740_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_286740_needit">d72bf1c64f552300dde2b82ca310c768</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">d72bf1c64f552300dde2b82ca310c768</sys_scope>
+        <sys_update_name>sys_security_acl_9e9b350a4f552300dde2b82ca310c754</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-23 12:02:30</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>

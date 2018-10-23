@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="New Section" section_id="453ffd8a4f552300dde2b82ca310c763" sys_domain="global" table="x_286740_needit_needit" version="3" view="NeedIt">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 12:40:21</sys_created_on>
+            <sys_id>7044068e4f552300dde2b82ca310c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_286740_needit_needit" sys_domain="global" view="66fef98a4f552300dde2b82ca310c763">453ffd8a4f552300dde2b82ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 12:40:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 12:40:21</sys_created_on>
+            <sys_id>f044068e4f552300dde2b82ca310c7f1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_286740_needit_needit" sys_domain="global" view="66fef98a4f552300dde2b82ca310c763">453ffd8a4f552300dde2b82ca310c763</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 12:40:21</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>New Section</caption>
+            <header>false</header>
+            <name>x_286740_needit_needit</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-23 12:18:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>453ffd8a4f552300dde2b82ca310c763</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>New Section</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="NeedIt" source="x_286740_needit">d72bf1c64f552300dde2b82ca310c768</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">d72bf1c64f552300dde2b82ca310c768</sys_scope>
+            <sys_update_name>sys_ui_section_453ffd8a4f552300dde2b82ca310c763</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-23 12:18:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="NeedIt" name="NeedIt">66fef98a4f552300dde2b82ca310c763</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
